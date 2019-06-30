@@ -1,8 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullpointofcollision-mastervs2019\convexhullpointofcollision3d\main.cpp(758): warning C4018: '<': signed/unsigned mismatch
-d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullpointofcollision-mastervs2019\convexhullpointofcollision3d\main.cpp(654): warning C4101: 'temp': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullpointofcollision-mastervs2019\convexhullpointofcollision3d\main.cpp(806): warning C4101: 'i': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullpointofcollision-mastervs2019\convexhullpointofcollision3d\main.cpp(1033): warning C4326: return type of 'main' should be 'int' instead of 'void'
-d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullpointofcollision-mastervs2019\convexhullpointofcollision3d\main.cpp(499): warning C4715: 'overlap': not all control paths return a value
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  ConvexHullPointOfCollision3D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level9\physics-3D-ConvexHullPointofCollision-masterVS2019\ConvexHullPointOfCollision3D\Debug\ConvexHullPointOfCollision3D.exe
